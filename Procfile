@@ -1,1 +1,1 @@
-python3 stockbot.py
+worker: python3 stockbot.py
